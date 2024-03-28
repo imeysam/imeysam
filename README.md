@@ -1,3 +1,6 @@
+
+
+
 ### About
 
 - 🔭 Currently working on [Kalapich](https://kalapich.com/)
@@ -19,10 +22,14 @@
 </div>
 
 <b>GitHub Stats</b>
+<div align="center">  
 
-![Meysam's GitHub stats](https://github-readme-stats.vercel.app/api?username=imeysam&show_icons=true&theme=radical)
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p align = "center">
+<a href="http://www.github.com/imeysam">
+<img src = "https://github-readme-stats.vercel.app/api?username=imeysam&show_icons=true&line_height=20&theme=dark#gh-dark-mode-only">
+</a>
+<a href="http://www.github.com/imeysam">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imeysam&line_height=20&theme=dark#gh-dark-mode-only">
+</a>
+</p>
