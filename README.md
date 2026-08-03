@@ -5,7 +5,7 @@
 
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,docker,git,jquery,js,vue,mysql,postgres,redis,mongo,telegram_bots&theme=dark)](# "php,laravel,python,django,nodejs,docker,git,jquery,js,vue,mysql,postgres,redis,mongo,telegram_bots")
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,docker,git,jquery,js,vue,mysql,postgres,redis,mongo,elasticsearch&theme=dark)](# "php,laravel,python,django,nodejs,docker,git,jquery,js,vue,mysql,postgres,redis,mongo,elasticsearch")
 
 
 # GitHub Stats
